@@ -1,2 +1,2 @@
 # smesport
-site to deliver sport gear to diffrent teams
+Site to deliver sport gear to diffrent teams.
